@@ -5,4 +5,7 @@ int main(){
     cin >> name ; 
     cout<<name ; 
     return 0;
+    //fuck the fingies 
+    //what the fuck did i modify
+    //sadfsdfsdfsdfsdfsdfsdd
 }
